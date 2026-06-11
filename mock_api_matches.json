@@ -1,0 +1,27 @@
+[ {
+  "id" : "match_01",
+  "team1" : "المكسيك",
+  "team2" : "جنوب أفريقيا",
+  "startTime" : "2026-06-11T18:59:00Z",
+  "status" : "SCHEDULED",
+  "stage" : "GROUP_STAGE",
+  "score1" : null,
+  "score2" : null,
+  "winner" : null,
+  "processed" : false,
+  "matchMessageId" : null,
+  "resultMessageId" : null
+}, {
+  "id" : "match_02",
+  "team1" : "الأوروغواي",
+  "team2" : "فرنسا",
+  "startTime" : "2026-06-11T22:29:00Z",
+  "status" : "SCHEDULED",
+  "stage" : "GROUP_STAGE",
+  "score1" : null,
+  "score2" : null,
+  "winner" : null,
+  "processed" : false,
+  "matchMessageId" : null,
+  "resultMessageId" : null
+} ]

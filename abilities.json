@@ -1,0 +1,22 @@
+{
+  "test_1781190087419" : {
+    "1095373966446694440" : {
+      "abilityType" : "GAMBLING",
+      "targetUserId" : null
+    }
+  },
+  "1" : {
+    "654437110115205121" : {
+      "abilityType" : "GAMBLING",
+      "targetUserId" : null
+    },
+    "923517947585130527" : {
+      "abilityType" : "GAMBLING",
+      "targetUserId" : null
+    },
+    "1011280134923366450" : {
+      "abilityType" : "SCOUTING",
+      "targetUserId" : "473435201633255424"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "discordToken": "YOUR_DISCORD_TOKEN_HERE",
+  "apiToken": "YOUR_API_TOKEN_HERE",
+  "apiUrl": "https://worldcup26.ir",
+  "channelId": "YOUR_CHANNEL_ID_HERE",
+  "mentionRoleId": "YOUR_MENTION_ROLE_ID_HERE",
+  "ownerId": "YOUR_OWNER_ID_HERE"
+}

@@ -1,0 +1,24 @@
+{
+  "1095373966446694440" : {
+    "userId" : "1095373966446694440",
+    "points" : 0.0,
+    "correctPredictions" : 0,
+    "incorrectPredictions" : 0,
+    "gamblingUsed" : 1,
+    "gamblingWins" : 0,
+    "sabotageUsed" : 0,
+    "sabotageWins" : 0,
+    "scoutingUsed" : 0
+  },
+  "1011280134923366450" : {
+    "userId" : "1011280134923366450",
+    "points" : 0.0,
+    "correctPredictions" : 0,
+    "incorrectPredictions" : 0,
+    "gamblingUsed" : 0,
+    "gamblingWins" : 0,
+    "sabotageUsed" : 0,
+    "sabotageWins" : 0,
+    "scoutingUsed" : 0
+  }
+}

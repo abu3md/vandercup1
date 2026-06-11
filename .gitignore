@@ -1,0 +1,10 @@
+/target/
+/jdk-21.0.3+9/
+/apache-maven-3.9.6/
+/graphify-out/
+*.log
+*.tmp
+/worldcupbot.zip
+/dependency-reduced-pom.xml
+/config.json
+/vandercup1/
