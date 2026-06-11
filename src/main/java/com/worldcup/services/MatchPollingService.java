@@ -228,7 +228,7 @@ public class MatchPollingService {
         String token = getOrAuthenticateToken();
         if (token == null) {
             logger.error("Cannot fetch matches: authentication failed.");
-            return fetchMockMatches();
+            return Collections.emptyList();
         }
 
         Request request = new Request.Builder()
@@ -257,7 +257,7 @@ public class MatchPollingService {
             logger.error("Failed to execute API request: {}", e.getMessage());
         }
 
-        return fetchMockMatches();
+        return Collections.emptyList();
     }
 
     private List<Match> parseApiResponse(Response response) {
